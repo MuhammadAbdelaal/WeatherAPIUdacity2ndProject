@@ -12,7 +12,7 @@ const zipCode = document.getElementById('zip');
 
 // api url endpoint, key, and call url
 const baseUrl = 'http://api.openweathermap.org/data/2.5/weather?zip=';
-const apiKey = '&appid=0a7d0b9089bddb203604e2ea37c97fac';
+const apiKey = '&appid=';
 // note temprature date found in ( data.main.temp )
 
 /* Event listener to add function to existing HTML DOM element */
